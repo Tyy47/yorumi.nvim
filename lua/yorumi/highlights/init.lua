@@ -7,7 +7,8 @@ function M.apply(config)
     "editor", "lsp", "syntax",
     "plugins/nvim-tree", "plugins/nvim-tree",
     "plugins/indent-blankline", "plugins/gitsigns",
-    "plugins/scrollbar", "plugins/cmp", "plugins/treesitter"
+    "plugins/scrollbar", "plugins/cmp", "plugins/treesitter",
+    "plugins/blink"
   }
 
   for _, highlight in ipairs(hl_files) do
