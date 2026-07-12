@@ -8,7 +8,7 @@ local palette = {
   yoru3   = "#1D202B",
 
   -- tsuki
-  tsuki0  = "#80AA6E", -- Original color variable =   tsuki0  = "#656771",
+  tsuki0  = "#656771", -- Original color variable =   tsuki0  = "#656771",
   tsuki1  = "#878996",
   tsuki2  = "#A7A9B5",
   tsuki3  = "#BDBFCB",
